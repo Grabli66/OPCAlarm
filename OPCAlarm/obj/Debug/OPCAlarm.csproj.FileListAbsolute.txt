@@ -1,0 +1,7 @@
+C:\Workspace\OPCAlarm\Release\OPCAlarm.dll
+C:\Workspace\OPCAlarm\Release\OPCAlarm.pdb
+C:\Workspace\OPCAlarm\OPCAlarm\obj\Debug\OPCAlarm.csproj.CoreCompileInputs.cache
+C:\Workspace\OPCAlarm\OPCAlarm\obj\Debug\OPCAlarm.dll
+C:\Workspace\OPCAlarm\OPCAlarm\obj\Debug\OPCAlarm.pdb
+C:\Workspace\OPCAlarm\OPCAlarm\obj\Debug\OPCAlarm.csprojAssemblyReference.cache
+C:\Workspace\OPCAlarm\OPCAlarm\obj\Debug\OPCAlarm.csproj.CopyComplete
