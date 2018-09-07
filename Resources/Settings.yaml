@@ -1,0 +1,4 @@
+SmsService:
+  type: epochta
+  login: mylogin
+  password: mypassword

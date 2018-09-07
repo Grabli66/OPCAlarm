@@ -1,0 +1,13 @@
+C:\Workspace\OPCAlarm\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.csprojAssemblyReference.cache
+C:\Workspace\OPCAlarm\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.csproj.CoreCompileInputs.cache
+C:\Workspace\OPCAlarm\Release\OPCAlarmConsole.exe.config
+C:\Workspace\OPCAlarm\Release\OPCAlarmConsole.exe
+C:\Workspace\OPCAlarm\Release\OPCAlarmConsole.pdb
+C:\Workspace\OPCAlarm\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.csproj.CopyComplete
+C:\Workspace\OPCAlarm\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.exe
+C:\Workspace\OPCAlarm\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.pdb
+C:\Workspace\OPCAlarm\Sources\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.csprojAssemblyReference.cache
+C:\Workspace\OPCAlarm\Sources\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.csproj.CoreCompileInputs.cache
+C:\Workspace\OPCAlarm\Sources\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.exe
+C:\Workspace\OPCAlarm\Sources\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.pdb
+C:\Workspace\OPCAlarm\Sources\OPCAlarmConsole\obj\Debug\OPCAlarmConsole.csproj.CopyComplete

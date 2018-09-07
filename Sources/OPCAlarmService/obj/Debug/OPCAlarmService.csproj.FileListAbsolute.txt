@@ -1,0 +1,16 @@
+C:\Workspace\OPCAlarm\Release\OPCAlarmService.exe.config
+C:\Workspace\OPCAlarm\Release\OPCAlarmService.exe
+C:\Workspace\OPCAlarm\Release\OPCAlarmService.pdb
+C:\Workspace\OPCAlarm\OPCAlarmService\obj\Debug\OPCAlarmService.csprojAssemblyReference.cache
+C:\Workspace\OPCAlarm\OPCAlarmService\obj\Debug\OPCAlarmService.OPCAlarmService.resources
+C:\Workspace\OPCAlarm\OPCAlarmService\obj\Debug\OPCAlarmService.csproj.GenerateResource.cache
+C:\Workspace\OPCAlarm\OPCAlarmService\obj\Debug\OPCAlarmService.csproj.CoreCompileInputs.cache
+C:\Workspace\OPCAlarm\OPCAlarmService\obj\Debug\OPCAlarmService.exe
+C:\Workspace\OPCAlarm\OPCAlarmService\obj\Debug\OPCAlarmService.pdb
+C:\Workspace\OPCAlarm\Sources\OPCAlarmService\obj\Debug\OPCAlarmService.csprojAssemblyReference.cache
+C:\Workspace\OPCAlarm\Sources\OPCAlarmService\obj\Debug\OPCAlarmService.OPCAlarmService.resources
+C:\Workspace\OPCAlarm\Sources\OPCAlarmService\obj\Debug\OPCAlarmService.csproj.GenerateResource.cache
+C:\Workspace\OPCAlarm\Sources\OPCAlarmService\obj\Debug\OPCAlarmService.csproj.CoreCompileInputs.cache
+C:\Workspace\OPCAlarm\Sources\OPCAlarmService\obj\Debug\OPCAlarmService.exe
+C:\Workspace\OPCAlarm\Sources\OPCAlarmService\obj\Debug\OPCAlarmService.pdb
+C:\Workspace\OPCAlarm\Sources\OPCAlarmService\obj\Debug\OPCAlarmService.csproj.CopyComplete

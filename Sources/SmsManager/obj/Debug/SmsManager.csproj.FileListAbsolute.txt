@@ -1,0 +1,10 @@
+C:\Workspace\OPCAlarm\Release\SmsManager.dll
+C:\Workspace\OPCAlarm\Release\SmsManager.pdb
+C:\Workspace\OPCAlarm\SmsManager\obj\Debug\SmsManager.csproj.CoreCompileInputs.cache
+C:\Workspace\OPCAlarm\SmsManager\obj\Debug\SmsManager.dll
+C:\Workspace\OPCAlarm\SmsManager\obj\Debug\SmsManager.pdb
+C:\Workspace\OPCAlarm\Sources\Release\SmsManager.dll
+C:\Workspace\OPCAlarm\Sources\Release\SmsManager.pdb
+C:\Workspace\OPCAlarm\Sources\SmsManager\obj\Debug\SmsManager.csproj.CoreCompileInputs.cache
+C:\Workspace\OPCAlarm\Sources\SmsManager\obj\Debug\SmsManager.dll
+C:\Workspace\OPCAlarm\Sources\SmsManager\obj\Debug\SmsManager.pdb
